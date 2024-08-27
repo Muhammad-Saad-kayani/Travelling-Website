@@ -16,7 +16,7 @@ const About = () => {
         <img src={play_icon} alt="" className="play_icon" />
       </div>
       <div className="about-right">
-        <h3>About SMIU</h3>
+        <h3>About SMIU :</h3>
         <h2> Higher Education Commission (HEC) of Pakistan</h2>
         <p>
           Sindh Madressatul Islam University is a chartered University, duly
